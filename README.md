@@ -59,4 +59,4 @@ An AI/ML-based project focused on analyzing emotional and behavioral patterns to
 - Improved prediction accuracy
 
 ## Author
-Gaanasri
+Gaanasri M S
