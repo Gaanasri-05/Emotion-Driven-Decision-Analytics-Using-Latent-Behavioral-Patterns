@@ -1,0 +1,42 @@
+# predict.py
+import os
+import joblib
+from src.preprocessing import clean_text
+
+# === Paths ===
+project_root = os.path.abspath(".")
+model_path = os.path.join(project_root, "results", "logistic_model.pkl")
+vectorizer_path = os.path.join(project_root, "results", "tfidf_vectorizer.pkl")
+
+# === Load trained model and vectorizer ===
+try:
+    model = joblib.load(model_path)
+    vectorizer = joblib.load(vectorizer_path)
+except FileNotFoundError:
+    print("❌ Model or vectorizer not found in results/. Please check the paths.")
+    exit()
+
+print("✅ Model and vectorizer loaded successfully!\n")
+print("Type 'exit' to quit the program.\n")
+
+# === Interactive loop ===
+while True:
+    sentence = input("Enter a sentence to predict decision type: ").strip()
+    if sentence.lower() == "exit":
+        print("Exiting...")
+        break
+    if not sentence:
+        continue
+
+    # Step 1: Clean
+    cleaned_sentence = clean_text(sentence)
+
+    # Step 2: Vectorize
+    X_test = vectorizer.transform([cleaned_sentence])
+
+    # Step 3: Predict
+    prediction = model.predict(X_test)[0]
+
+    # Output
+    print(f"\nSentence: {sentence}")
+    print(f"Predicted decision: {prediction}\n")

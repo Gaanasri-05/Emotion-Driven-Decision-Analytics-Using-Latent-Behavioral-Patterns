@@ -1,0 +1,323 @@
+id,text,decision_label
+1,I bought the shoes immediately after seeing a discount,impulsive
+2,I carefully compared multiple shoe brands before purchasing,deliberate
+3,I sent the email in anger without rereading it,impulsive
+4,I waited and rewrote the email after calming down,deliberate
+5,I ordered fast food late at night due to cravings,impulsive
+6,I planned my meals in advance to maintain my health,deliberate
+7,I quit my job suddenly because I felt overwhelmed,impulsive
+8,I analyzed my career options before resigning,deliberate
+9,I invested money because everyone around me was doing it,impulsive
+10,I studied market trends before making the investment,deliberate
+11,I booked a trip instantly after seeing travel photos,impulsive
+12,I reviewed my budget and schedule before booking the trip,deliberate
+13,I bought a gadget without checking its reviews,impulsive
+14,I read customer feedback before buying the gadget,deliberate
+15,I reacted emotionally during the argument,impulsive
+16,I chose to pause and think before responding,deliberate
+17,I skipped studying and went out with friends suddenly,impulsive
+18,I followed my study plan despite distractions,deliberate
+19,I made a purchase because I felt stressed,impulsive
+20,I delayed the purchase until I was emotionally stable,deliberate
+21,I accepted the offer immediately without negotiation,impulsive
+22,I evaluated the offer terms before accepting,deliberate
+23,I shared the post online without verifying it,impulsive
+24,I checked the authenticity before sharing the post,deliberate
+25,I chose a course based on excitement alone,impulsive
+26,I researched the syllabus before selecting the course,deliberate
+27,I reacted quickly to criticism and defended myself,impulsive
+28,I reflected on the feedback before responding,deliberate
+29,I spent money impulsively during a sale,impulsive
+30,I tracked my expenses before spending,deliberate
+31,I joined the event because my friends insisted,impulsive
+32,I considered my priorities before joining the event,deliberate
+33,I made a decision based on fear of missing out,impulsive
+34,I took time to assess whether the opportunity suited me,deliberate
+35,I responded yes immediately without thinking,impulsive
+36,I asked for time before giving my response,deliberate
+37,I trusted my emotions over logic in that moment,impulsive
+38,I balanced emotional and logical factors before deciding,deliberate
+39,I chose the option that felt exciting at the moment,impulsive
+40,I evaluated long term consequences before choosing,deliberate
+41,I purchased the item because it looked attractive,impulsive
+42,I compared functionality before purchasing the item,deliberate
+43,I reacted instantly to the situation without planning,impulsive
+44,I created a plan before taking action,deliberate
+45,I followed my instincts without questioning them,impulsive
+46,I questioned my instincts before proceeding,deliberate
+47,I made a decision under emotional pressure,impulsive
+48,I waited until the pressure reduced before deciding,deliberate
+49,I chose speed over accuracy in decision making,impulsive
+50,I prioritized accuracy over speed in decision making,deliberate
+51,I committed to the idea without reflection,impulsive
+52,I reflected deeply before committing to the idea,deliberate
+53,I allowed excitement to drive my choice,impulsive
+54,I allowed reasoning to guide my choice,deliberate
+55,I acted immediately based on my feelings,impulsive
+56,I delayed action to analyze the situation,deliberate
+57,I selected the option that felt easiest,impulsive
+58,I selected the option that was most practical,deliberate
+59,I trusted my emotional reaction instantly,impulsive
+60,I trusted a logical evaluation of the situation,deliberate
+61,"I bought a new phone immediately after seeing the online ad.",impulsive
+62,"I sent a message without rereading it because I was frustrated.",impulsive
+63,"I ordered a pizza at midnight without thinking about calories.",impulsive
+64,"I clicked the 'buy now' button the moment I saw the sale.",impulsive
+65,"I replied angrily to the comment without considering the consequences.",impulsive
+66,"I booked tickets instantly when I saw the discount.",impulsive
+67,"I ate the cake immediately after seeing it on the table.",impulsive
+68,"I bought the jacket on a whim while walking past the store.",impulsive
+69,"I joined the online challenge without knowing the rules.",impulsive
+70,"I sent an email in anger without checking the details.",impulsive
+71,"I made a snap decision to attend the party.",impulsive
+72,"I bought concert tickets as soon as they were announced.",impulsive
+73,"I clicked on a link immediately after receiving the notification.",impulsive
+74,"I responded to the text without thinking about the tone.",impulsive
+75,"I spent money impulsively on something I didn't need.",impulsive
+76,"I bought the shoes instantly after seeing my favorite influencer wear them.",impulsive
+77,"I accepted the invite without checking my schedule.",impulsive
+78,"I ate fast food because I was hungry and didn’t care about health.",impulsive
+79,"I changed my plan suddenly without consulting anyone.",impulsive
+80,"I ordered dessert immediately after finishing dinner.",impulsive
+81,"I replied to the post without reading the comments carefully.",impulsive
+82,"I bought a book immediately after reading a review snippet.",impulsive
+83,"I started a project without planning because I was excited.",impulsive
+84,"I clicked 'submit' on the form without reviewing it.",impulsive
+85,"I bought snacks instantly after seeing a commercial.",impulsive
+86,"I accepted the spontaneous trip offer without hesitation.",impulsive
+87,"I sent an angry reply in the heat of the moment.",impulsive
+88,"I invested in the stock immediately after seeing the trend.",impulsive
+89,"I bought a gift impulsively when I saw it on display.",impulsive
+90,"I joined a class without checking the schedule first.",impulsive
+91,"I left the meeting suddenly without explaining.",impulsive
+92,"I purchased a gadget immediately after reading a blog post.",impulsive
+93,"I signed up for the webinar without checking the details.",impulsive
+94,"I reacted to the news post instantly without thinking.",impulsive
+95,"I made a quick decision to eat out without planning.",impulsive
+96,"I bought clothes impulsively after seeing them online.",impulsive
+97,"I clicked 'yes' immediately on a survey without reading it.",impulsive
+98,"I replied emotionally to the message without thinking.",impulsive
+99,"I joined a live session instantly because I was curious.",impulsive
+100,"I purchased a movie ticket immediately after the trailer.",impulsive
+101,"I ordered fast food in the middle of the night without care.",impulsive
+102,"I made a quick decision to buy the accessory online.",impulsive
+103,"I changed my hairstyle suddenly without consulting anyone.",impulsive
+104,"I spent money impulsively on a gadget I didn’t need.",impulsive
+105,"I sent a hasty email without checking it twice.",impulsive
+106,"I bought a new backpack immediately after seeing it in the store.",impulsive
+107,"I reacted instantly to a friend's post without thinking.",impulsive
+108,"I joined a chat group impulsively because it seemed fun.",impulsive
+109,"I purchased the item right after seeing it on sale.",impulsive
+110,"I made a snap decision to switch tasks without finishing the previous one.",impulsive
+111,"I ordered coffee instantly when I saw a special offer.",impulsive
+112,"I replied to a message without considering its tone.",impulsive
+113,"I bought a ticket impulsively without checking the date.",impulsive
+114,"I made a quick decision to eat the dessert immediately.",impulsive
+115,"I clicked on the link instantly without verifying it.",impulsive
+116,"I bought an accessory immediately after seeing an online ad.",impulsive
+117,"I made a sudden plan to visit a friend without prior notice.",impulsive
+118,"I purchased snacks instantly after feeling hungry.",impulsive
+119,"I reacted to the post emotionally and quickly.",impulsive
+120,"I joined an online event without reading the instructions.",impulsive
+121,"I bought a book immediately after seeing a short review.",impulsive
+122,"I sent a hasty reply to a message in frustration.",impulsive
+123,"I made a quick decision to buy a gadget I liked.",impulsive
+124,"I reacted instantly to a notification without thinking.",impulsive
+125,"I purchased a new game immediately after watching the trailer.",impulsive
+126,"I clicked 'register' on the website impulsively.",impulsive
+127,"I ordered fast food on impulse after seeing an ad.",impulsive
+128,"I sent an angry message immediately without thinking.",impulsive
+129,"I bought a subscription instantly without reading terms.",impulsive
+130,"I accepted an online offer impulsively without considering options.",impulsive
+131,"I evaluated all the options carefully before choosing a course.",deliberate
+132,"Before buying the gadget, I compared reviews and features.",deliberate
+133,"I took time to think before responding to the feedback.",deliberate
+134,"I analyzed multiple alternatives before deciding which job offer to accept.",deliberate
+135,"I waited a day to reply to the email after thinking it through.",deliberate
+136,"I considered the pros and cons before making the purchase.",deliberate
+137,"I consulted friends and family before making an important decision.",deliberate
+138,"I carefully planned my schedule before committing to any task.",deliberate
+139,"I weighed different travel options before booking the ticket.",deliberate
+140,"I thought about the consequences before responding to the message.",deliberate
+141,"I compared several products before choosing the best one.",deliberate
+142,"I took time to evaluate all possibilities before acting.",deliberate
+143,"I reviewed feedback carefully before replying to it.",deliberate
+144,"I analyzed the situation thoroughly before deciding.",deliberate
+145,"I considered alternative solutions before making a choice.",deliberate
+146,"I planned my actions carefully to avoid mistakes.",deliberate
+147,"I evaluated the risks and benefits before taking any action.",deliberate
+148,"I took time to research before buying a product.",deliberate
+149,"I reflected on the situation before responding to the email.",deliberate
+150,"I thought through all options before making a decision.",deliberate
+151,"I carefully assessed all choices before taking action.",deliberate
+152,"I consulted multiple sources before making a purchase.",deliberate
+153,"I waited and reviewed the details before replying.",deliberate
+154,"I compared different alternatives before making a selection.",deliberate
+155,"I weighed pros and cons before committing to a decision.",deliberate
+156,"I evaluated carefully before acting on the suggestion.",deliberate
+157,"I considered the impact of my decision before responding.",deliberate
+158,"I reflected before taking action to ensure the right choice.",deliberate
+159,"I took time to plan the next steps carefully.",deliberate
+160,"I reviewed all options thoroughly before acting.",deliberate
+161,"I analyzed the benefits and drawbacks before making a choice.",deliberate
+162,"I waited and evaluated all consequences before responding.",deliberate
+163,"I compared all possibilities before making a selection.",deliberate
+164,"I thought carefully before sending the email.",deliberate
+165,"I assessed all information before committing to the task.",deliberate
+166,"I reviewed feedback and options carefully before replying.",deliberate
+167,"I evaluated multiple scenarios before making a decision.",deliberate
+168,"I analyzed data and consulted sources before acting.",deliberate
+169,"I reflected on different strategies before taking action.",deliberate
+170,"I weighed the alternatives carefully before deciding.",deliberate
+171,"I considered multiple perspectives before responding.",deliberate
+172,"I carefully reviewed my options before acting.",deliberate
+173,"I evaluated carefully before replying to the message.",deliberate
+174,"I analyzed all possible outcomes before making a choice.",deliberate
+175,"I took time to consider the consequences before acting.",deliberate
+176,"I reflected and compared options before deciding.",deliberate
+177,"I weighed information and alternatives before making a decision.",deliberate
+178,"I consulted others and reflected before taking action.",deliberate
+179,"I took time to analyze the situation before responding.",deliberate
+180,"I reviewed pros and cons carefully before making a choice.",deliberate
+181,"I carefully considered all details before replying to the email.",deliberate
+182,"I analyzed options carefully before committing to a decision.",deliberate
+183,"I reflected on feedback before taking action.",deliberate
+184,"I assessed the situation thoroughly before responding.",deliberate
+185,"I weighed different possibilities before deciding.",deliberate
+186,"I compared outcomes carefully before taking action.",deliberate
+187,"I took time to evaluate risks before making a choice.",deliberate
+188,"I analyzed alternatives carefully before responding.",deliberate
+189,"I thought through the process before acting on the suggestion.",deliberate
+190,"I reflected on consequences before committing to a decision.",deliberate
+191,"I carefully reviewed all relevant information before acting.",deliberate
+192,"I evaluated each option thoroughly before making a choice.",deliberate
+193,"I analyzed the impact of my decision before responding.",deliberate
+194,"I reflected on different outcomes before taking action.",deliberate
+195,"I carefully planned my actions after evaluating options.",deliberate
+196,"I reviewed the situation and considered alternatives before acting.",deliberate
+197,"I thought through each possibility before making a decision.",deliberate
+198,"I analyzed all relevant factors before replying to the message.",deliberate
+199,"I reflected on my options before taking any action.",deliberate
+200,"I carefully considered the situation and made a thoughtful decision.",deliberate
+201,I carefully compared multiple laptop brands before buying,deliberate
+202,I made a shopping list and checked reviews before purchasing groceries,deliberate
+203,I researched vacation options and read reviews before booking,deliberate
+204,I waited for discounts and planned my online purchase,deliberate
+205,I scheduled my workout after checking my calendar,deliberate
+206,I analyzed my expenses before deciding to buy a new phone,deliberate
+207,I read multiple articles before deciding which course to take,deliberate
+208,I drafted several versions of my resume before sending it,deliberate
+209,I planned my outfit for the event ahead of time,deliberate
+210,I checked the train timings before leaving for the station,deliberate
+211,I compared multiple brands of shoes before making a purchase,deliberate
+212,I researched the best restaurants before making a reservation,deliberate
+213,I planned my weekend activities after reviewing the weather forecast,deliberate
+214,I wrote pros and cons before deciding which laptop to buy,deliberate
+215,I waited for my turn to speak after thinking carefully,deliberate
+216,I studied multiple tutorials before starting a programming project,deliberate
+217,I compared different mobile plans before subscribing,deliberate
+218,I read product reviews before buying kitchen appliances,deliberate
+219,I checked the nutritional facts before buying snacks,deliberate
+220,I mapped my route before leaving for a long trip,deliberate
+221,I waited for feedback before sending the final email,deliberate
+222,I researched the hotel options before booking for my vacation,deliberate
+223,I planned my grocery shopping after checking the budget,deliberate
+224,I waited for multiple price comparisons before buying a camera,deliberate
+225,I thought through my reply carefully before responding to the message,deliberate
+226,I read several articles before forming an opinion,deliberate
+227,I scheduled appointments after checking availability,deliberate
+228,I drafted my project report in parts before finalizing,deliberate
+229,I waited for the morning to make a decision after thinking,deliberate
+230,I made a list of advantages and disadvantages before buying furniture,deliberate
+231,I researched the best online deals before purchasing,deliberate
+232,I checked multiple news sources before believing a story,deliberate
+233,I thought about the consequences before making a choice,deliberate
+234,I compared different software options before installing one,deliberate
+235,I reviewed my notes carefully before submitting the assignment,deliberate
+236,I researched universities before applying to the course,deliberate
+237,I read multiple product reviews before choosing a laptop,deliberate
+238,I carefully checked the schedule before making a booking,deliberate
+239,I drafted an outline before writing the essay,deliberate
+240,I compared menu options before ordering food,deliberate
+241,I planned my budget before shopping online,deliberate
+242,I waited and observed before giving my feedback,deliberate
+243,I listed pros and cons before deciding on a travel destination,deliberate
+244,I checked multiple sources before making an investment decision,deliberate
+245,I carefully analyzed my notes before the exam,deliberate
+246,I researched different workout plans before starting,deliberate
+247,I thought through the steps before starting a DIY project,deliberate
+248,I planned my tasks for the week before starting work,deliberate
+249,I read different opinions before commenting online,deliberate
+250,I made a schedule before starting my study session,deliberate
+251,I compared different camera models before purchasing,deliberate
+252,I waited for my colleagues’ input before making a decision,deliberate
+253,I researched several tutorials before trying a new recipe,deliberate
+254,I read multiple guides before assembling furniture,deliberate
+255,I checked product specifications before buying electronics,deliberate
+256,I made a checklist before packing for the trip,deliberate
+257,I waited and analyzed my options before buying a gift,deliberate
+258,I carefully read the instructions before starting the task,deliberate
+259,I researched different subscription options before signing up,deliberate
+260,I compared prices across stores before shopping,deliberate
+261,I made a careful plan before starting my project,deliberate
+262,I bought the phone immediately because the discount scared me,impulsive
+263,I quit the course suddenly after feeling overwhelmed,impulsive
+264,I ordered expensive food online without checking my budget,impulsive
+265,I sent a harsh message as soon as I felt angry,impulsive
+266,I booked the trip instantly after watching a travel reel,impulsive
+267,I purchased the dress just because everyone else was buying it,impulsive
+268,I accepted the offer without reading the terms properly,impulsive
+269,I decided to skip the exam out of frustration,impulsive
+270,I bought the gadget the moment it was released,impulsive
+271,I reacted emotionally and blocked my friend immediately,impulsive
+272,I enrolled in the program without thinking about the workload,impulsive
+273,I spent my savings impulsively during a bad mood,impulsive
+274,I ordered fast food late at night due to sudden cravings,impulsive
+275,I chose the option quickly without understanding the consequences,impulsive
+276,I resigned from the job after one stressful day,impulsive
+277,I replied aggressively before calming myself,impulsive
+278,I made the purchase instantly after seeing an advertisement,impulsive
+279,I cancelled my plans suddenly because I felt irritated,impulsive
+280,I joined the event without checking my schedule,impulsive
+281,I agreed to the decision emotionally without reflection,impulsive
+282,I reacted immediately instead of thinking logically,impulsive
+283,I booked the ticket suddenly because I felt excited,impulsive
+284,I shouted my opinion without considering others,impulsive
+285,I made the investment quickly after hearing a rumor,impulsive
+286,I chose the product instantly due to peer pressure,impulsive
+287,I skipped the meeting out of sudden anger,impulsive
+288,I decided to buy it just to feel better,impulsive
+289,I reacted without waiting for more information,impulsive
+290,I sent the email immediately in frustration,impulsive
+291,I purchased the item without comparing alternatives,impulsive
+292,I agreed to the plan just to avoid conflict,impulsive
+293,I made the choice emotionally instead of rationally,impulsive
+294,I ordered food impulsively during stress,impulsive
+295,I reacted instantly to the comment without thinking,impulsive
+296,I made a sudden decision influenced by excitement,impulsive
+297,I clicked buy now without evaluating the need,impulsive
+298,I accepted the challenge emotionally without preparation,impulsive
+299,I chose the option fast because I felt pressured,impulsive
+300,I replied immediately due to irritation,impulsive
+301,I made the decision suddenly during anxiety,impulsive
+302,I bought the ticket instantly fearing it would sell out,impulsive
+303,I agreed quickly without understanding the details,impulsive
+304,I reacted emotionally instead of waiting,impulsive
+305,I spent money instantly to reduce stress,impulsive
+306,I quit the plan suddenly after losing patience,impulsive
+307,I responded harshly without reconsidering my words,impulsive
+308,I made the choice quickly because I felt rushed,impulsive
+309,I am not considering anything I will resign now ,impulsive
+310,I purchased the product without checking reviews,impulsive
+311,I chose the path instantly without evaluation,impulsive
+312,I reacted before processing the situation,impulsive
+313,I made a sudden choice influenced by fear,impulsive
+314,I accepted the decision impulsively,impulsive
+315,I will resign now,impulsive
+316,I spent money suddenly to feel satisfied,impulsive
+317,I reacted quickly under emotional pressure,impulsive
+318,I made the decision without delay or thought,impulsive
+319,I chose immediately due to emotional influence,impulsive
+320,I acted fast without considering the outcome,impulsive
+321,I decided instantly driven by emotion,impulsive
+
